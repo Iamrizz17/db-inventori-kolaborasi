@@ -3,7 +3,7 @@ Tugas Kelompok 1 untuk pemenuhan tugas Mata Kuliah Collaborative Computing
 
 # Database Collaboration – Sistem Inventori
 
-Proyek praktikum mata kuliah **Collaborative Computing (Pertemuan 8)** – Program Studi Sistem Informasi, FINKOM Universitas Binaniaga Indonesia.
+Proyek praktikum mata kuliah **Collaborative Computing (Pertemuan 9)** – Program Studi Sistem Informasi, FINKOM Universitas Binaniaga Indonesia.
 
 ## Anggota Tim & Peran
 1. **Muhamad Rizki Saputra** (11523051) – *Lead Repo & Analis*
